@@ -4,4 +4,4 @@ A re-creation of a complete website that was build with HTML 5, CSS 3, and Boots
 
 This website is a single page website. It has navigation links on the top to go to different sections within the same page. 
 
-To open this website, download the files, and click on index.html to open the website. It will open on your default web browser. 
+Download the files, unzip the files, and click on index.html to open the website on your default web browser. 
